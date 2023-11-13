@@ -3,7 +3,9 @@
 
 using namespace std;
 
-// Add your test cases here
+//jason put operator tests and write MANY for insert and erase
+//for like insert into empty list, insert into middle of list, etc
+//look at hpp file u gotta use iterator for inset and erase
 
 TEST(copy_constructor) {
     List<int> nums;
@@ -169,6 +171,5 @@ TEST(pop_back_empty) {
 	
 }
 
-//jason put operator tests here
 
 TEST_MAIN()
