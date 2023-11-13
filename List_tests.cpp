@@ -141,28 +141,28 @@ TEST(push_back_not_emptylist_checksize_and_pointers) {
 	
 }
 
-TEST(pop_front_checkmem_pointers_and_size_empty) {
+TEST(pop_front_empty) {
     
     ASSERT_TRUE(true);
 	
 	
 }
 
-TEST(pop_front_checkmem_pointers_and_size_not_empty) {
+TEST(pop_front) {
     
     ASSERT_TRUE(true);
 	
 	
 }
 
-TEST(pop_back_checkmem_pointers_and_size_empty) {
+TEST(pop_back) {
     
     ASSERT_TRUE(true);
 	
 	
 }
 
-TEST(pop_back_checkmem_pointers_and_size_not_empty) {
+TEST(pop_back_empty) {
     
     ASSERT_TRUE(true);
 	
